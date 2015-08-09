@@ -4,3 +4,5 @@ Docker container for Pandoc with Latex tools and xelatex in order to use --templ
 ```
 docker run -v `pwd`:/source jermorin/pandoc-xelatex
 ```
+
+You can see sample on https://github.com/Jermorin/book-pandoc
