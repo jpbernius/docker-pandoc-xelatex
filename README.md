@@ -2,10 +2,8 @@
 Docker container for Pandoc with Latex tools and xelatex in order to use --template
 
 ```
-docker run -v `pwd`:/source jermorin/pandoc-xelatex
+docker run -v `pwd`:/source jpbernius/pandoc-xelatex
 ```
-
-You can see sample on https://github.com/Jermorin/internship-report-pandoc
 
 You can also use all the [pandoc](http://pandoc.org/) options 
 
